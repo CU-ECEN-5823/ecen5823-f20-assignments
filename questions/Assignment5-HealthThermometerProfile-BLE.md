@@ -19,7 +19,7 @@ See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
    <br>Screenshot:  
    ![peak_current_of_advertisement](screenshots/assignment5/peak_current_of_advertisement.png)  
 
-4. Provide screen shot verifying the connection interval setting matches the value required for the assignment.
+4. Provide screen shot showing the connection interval settings. Do they match the values you set in your slave(server) code or the master's values?.
    <br>Screenshot: 
    ![connection_interval](screenshots/assignment5/connection_interval.png)  
 
@@ -28,7 +28,7 @@ See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
    <br>Screenshot:  
    ![avg_current_between_connection_intervals](screenshots/assignment5/avg_current_between_connection_intervals.png)  
 
-6. Provide screen shot verifying the slave latency matches the value required for the assignment. 
+6. If possible, provide screen shot verifying the slave latency matches what was reported when you logged the values from event = gecko_evt_le_connection_parameters_id. 
    <br>Screenshot:  
    ![slave_latency](screenshots/assignment5/slave_latency.png)  
 
@@ -37,7 +37,7 @@ See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
    <br>Screenshot:  
    ![peak_current_phone_next_to](screenshots/assignment5/peak_current_phone_next_to.png)  
    
-8. What is the peak current of a data transmission when the phone is connected and placed 20 feet away from the Blue Gecko? 
+8. What is the peak current of a data transmission when the phone is connected and placed approximately 20 feet away from the Blue Gecko? 
    Answer:
    <br>Screenshot:  
    ![peak_current_phone_20ft_away](screenshots/assignment5/peak_current_phone_20ft_away.png)  
