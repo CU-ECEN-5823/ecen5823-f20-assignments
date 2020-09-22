@@ -5,7 +5,7 @@ See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 *Please include screenshots of the profiler window detailing each current measurement captured.  See [Shared document](https://docs.google.com/document/d/1Ro9G2Nsr_ZXDhBYJ6YyF9CPivb--6UjhHRmVhDGySag/edit?usp=sharing) for instructions.* 
 
-1. What is the average current for 1 temeperature measurment period? 
+1. What is the average current for 1 temperature measurement period? 
    Answer:
    <br>Screenshot:  
    ![Avg_current_per_period](screenshots/sampleimage.jpg)  
