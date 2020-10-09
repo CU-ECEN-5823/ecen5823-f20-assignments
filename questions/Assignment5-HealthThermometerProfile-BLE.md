@@ -32,7 +32,7 @@ See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
    <br>Screenshot:  
    ![slave_latency](screenshots/assignment5/slave_latency.png)  
 
-7. What is the peak current of a data transmission when the phone is connected and placed next to the Blue Gecko? 
+7. What is the peak current of a data transmission when the phone is connected and placed next to the Blue Gecko? Remember that packets from the BT application layer are queued in the link layer and transmitted at the next connection interval.
    Answer:
    <br>Screenshot:  
    ![peak_current_phone_next_to](screenshots/assignment5/peak_current_phone_next_to.png)  
